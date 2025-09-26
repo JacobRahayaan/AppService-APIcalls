@@ -48,7 +48,7 @@ data = response.json()
       ```
          python -m venv venv
       ```
-      ##Windows
+      ## Windows
       ```
          venv\Scripts\activate
       ```
