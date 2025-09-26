@@ -45,14 +45,15 @@ data = response.json()
 
 1. Clone / Download project ke komputer.
 2. Buat virtual environment (opsional tapi direkomendasikan):
-      python -m venv venv
+      ```python -m venv venv
       # Windows
       venv\Scripts\activate
       # Mac/Linux
       source venv/bin/activate
+      ```
 3. Install dependencies:
-      pip install flask requests
+      ```pip install flask requests```
 4. Jalankan Flask App:
-      python app.py
+      ```python app.py```
 5. Buka browser dan akses:
-      http://127.0.0.1:5000/
+      ```http://127.0.0.1:5000/```
