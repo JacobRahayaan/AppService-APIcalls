@@ -39,6 +39,7 @@ import requests
 params = {"q": "Jakarta", "appid": API_KEY, "units": "metric"}
 response = requests.get("https://api.openweathermap.org/data/2.5/weather", params=params)
 data = response.json()
+```
 
 ## **6. Cara Menjalankan Program**
 
