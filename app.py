@@ -4,7 +4,7 @@ import datetime
 
 app = Flask(__name__)
 
-API_KEY = "efce1907ea51cc7170ec6f087b842c5c"
+API_KEY = ""
 CURRENT_URL = "https://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
 POLLUTION_URL = "http://api.openweathermap.org/data/2.5/air_pollution"
